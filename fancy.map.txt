@@ -1,0 +1,92 @@
+ROOM
+100			    	100
+
+                                                          ,---,  
+        ,--,                                           ,`--.' |  
+      ,--.'|              ,--,      ,--,               |   :  :  
+   ,--,  | :            ,--.'|    ,--.'|               '   '  ;  
+,---.'|  : '            |  | :    |  | :       ,---.   |   |  |  
+|   | : _' |            :  : '    :  : '      '   ,'\  '   :  ;  
+:   : |.'  |    ,---.   |  ' |    |  ' |     /   /   | |   |  '  
+|   ' '  ; :   /     \  '  | |    '  | |    .   ; ,. : '   :  |  
+'   |  .'. |  /    /  | |  | :    |  | :    '   | |: : ;   |  ;  
+|   | :  | ' .    ' / | '  : |__  '  : |__  '   | .; : `---'. |  
+'   : |  : ; '   ;   /| |  | '.'| |  | '.'| |   :    |  `--..`;  
+|   | '  ,/  '   |  / | ;  :    ; ;  :    ;  \   \  /  .--,_     
+;   : ;--'   |   :    | |  ,   /  |  ,   /    `----'   |    |`.  
+|   ,/        \   \  /   ---`-'    ---`-'              `-- -`, ; 
+'---'          `----'                                    '---`"  
+                                                                 
+Welcome to our dungeon.  We've been working to spruce it up
+recently, scrub off the slime, chase away the monsters, that
+sort of thing.  (If you like the throw pillows you see in the
+dungeon, I got them on clearance at Pier 1.  A bargain.)
+END
+ROOM
+100 99
+    M
+    M
+    M
+"ooo"
+
+What!?  It is our friend, Wikipedia J, cruelly transformed by the
+magical spell "pbmtoascii" into but a shadow of its former self.
+Truly evil lies in this dark dungeon.  Evil with tasteful throw
+pillows.
+END
+ROOM
+100 98
+(This room intentionally left blank.)
+END
+ROOM
+101 98
+You see yourself!  Many of yourself!  This room seems intended
+as a Hall of Mirrors, but given its rather smallish size, it
+comes across as more like a Crowded Entranceway of Mirrors,
+the sort where everyone's shoes are scattered about at a party
+and you have to awkwardly find places to step while two other
+partygoers are trying to do the exact same thing and are standing
+WAY too close - I mean, social distancing, people - so it becomes
+more of a game of Twister as you try to put on your shoes and say
+goodbye to the host.
+END
+ROOM
+101    97
+A sword!
+
+	O###{=================>
+
+(There's really no particular reason for the sword to be here, and
+the game won't actually let you take it.  It just seemed the sort
+of thing one might reasonably expect to find in a dungeon.)
+END
+ROOM
+99        100
+**************************************************************************
+***                                                                    ***
+*** YOU SEE A HORRIBLE MONSTER, FANGS GLEAMING AND DROPPING WITH BLOOD ***
+***                                                                    ***
+**************************************************************************
+
+
+...depicted in an artful mosaic on the far wall of this room.  Pausing
+to admire it, you turn into a mosaic browser.  Hashtag history hashtag
+justwebthings hashtag googleit.
+END
+ROOM
+98 100
+
+  V
+ \|/
+  O
+
+You encounter a person, oddly upside-down, speaking in a strange tongue;
+you think he might be Awstraileean from some of the odd things this
+person says.  He seems very concerned about shrimp and barbies for
+some reason.  You feel inclined to stand two meters away from him
+and wash your hands.
+END
+ROOM
+12345 12345
+The banner was made using http://patorjk.com/software/taag/
+END

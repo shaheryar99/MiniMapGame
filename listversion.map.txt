@@ -1,0 +1,24 @@
+ROOM
+2 1
+This is a cave entrance.
+this is not a cave
+END
+ROOM
+2 2
+This is an ugly room.
+what
+END
+ROOM
+3 2
+Buk buk buk buk-awk!
+END
+ROOM
+1 3
+This room smells like a camel.
+does it
+END
+ROOM
+2 3
+This room looks like a snot tornado hit it.  Billie Eyelash could hide here.
+my
+END

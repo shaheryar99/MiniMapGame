@@ -1,0 +1,40 @@
+ROOM
+2 1
+This is a cave entrance.
+END
+ROOM
+2 2
+This is an ugly room.
+END
+ROOM
+3 2
+Buk buk buk buk-awk!
+END
+ROOM
+1 3
+This room smells like a camel.
+END
+ROOM
+2 3
+This room looks like a snot tornado hit it.  Billie Eyelash could hide here.
+END
+ROOM
+3 3
+This room is mostly suitable for chickens.
+END
+ROOM
+4 2
+How about that COVID-19?  *cough*
+END
+ROOM
+5 2
+Where are the zombies!?  I expected zombies!
+END
+ROOM
+6 2
+The self-isolation zone is just around the corner...
+END
+ROOM
+6 1
+SELF-ISOLATION!  YOU MADE IT!!!
+END
